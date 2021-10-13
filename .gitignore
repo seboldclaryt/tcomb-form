@@ -1,6 +1,4 @@
 *.log
 dev
-dist
 node_modules
-lib
 .idea
